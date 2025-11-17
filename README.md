@@ -86,4 +86,4 @@ python app.py
 ```
 
 ## Important Notes
-* [poscar2openmx](https://github.com/pohao82/poscar2openmx.git) is another standalone libray which can be used independently. It is only relevant if you want to generate input for OpenMX calculations.
+* [poscar2openmx](https://github.com/pohao82/poscar2openmx.git) is another standalone libray which can be used independently. It is only relevant if you want to generate input for OpenMX calculations.# vasp-omx-moment-setter
