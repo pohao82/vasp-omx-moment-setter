@@ -1,6 +1,8 @@
 # Interactive VASP MAGMOM Generator
 
-A web application built with Dash and Plotly to interactively set up, visualize, and generate magnetic moment configurations for VASP and OpenMX input file
+[![Render](https://img.shields.io/badge/Render-Live%20App-46E3B7?style=for-the-badge&logo=render)](https://vasp-omx-moment-setter.onrender.com/)
+
+A web application built with Dash and Plotly to interactively set up, visualize, and generate magnetic moment configurations for VASP and OpenMX input files.
 
 ## Usage Examples
 ### Visualize complex magnetic structure from POSCAR and MAGMAOM string
