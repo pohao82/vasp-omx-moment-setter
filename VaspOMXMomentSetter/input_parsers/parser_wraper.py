@@ -17,7 +17,7 @@ def input_parser(contents):
             print('Read from OpenMX *.dat input')
             # data stores all omx settings
             lattice_matrix, species, coords, is_cartesian, magmom, n_valence, data = simple_openmx_dat_parser(file_content)
-            print(f'spin polarization : {data['spin_pol']}')
+            print(f"spin polarization : {data['spin_pol']}")
             input_type ='omx'
         else:
             print('Read in POSCAR (vasp)')
